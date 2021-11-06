@@ -8,12 +8,13 @@
 1. 啟動web socket server執行檔  ChatRoom/bin/Debug/ChatRoom.exe
 2. 瀏覽器執行 html file  ChatRoom/View/index.cshtml
 3. 開始聊天
-<br/> gif DEMO https://imgur.com/a/8QdQkCg
+<br/>
+gif DEMO https://imgur.com/a/8QdQkCg
 
 # 參考資料
 * [MDN-Write Web Socket Server](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers)
 * [MDN-Writing WebSocket Client Applications](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_client_applications)
-* [MSND-Socket Server Listening](https://docs.microsoft.com/zh-tw/dotnet/framework/network-programming/listening-with-sockets)
+* [MSDN-Socket Server Listening](https://docs.microsoft.com/zh-tw/dotnet/framework/network-programming/listening-with-sockets)
 * [MSDN-Using threads and threading](https://docs.microsoft.com/zh-tw/dotnet/standard/threading/using-threads-and-threading)
 
 
