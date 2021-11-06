@@ -1,0 +1,7 @@
+C:\Users\WeiLin.Hsu\OneDrive\桌面\TEST\WebSocketTest\ChatRoom\bin\Debug\ChatRoom.exe.config
+C:\Users\WeiLin.Hsu\OneDrive\桌面\TEST\WebSocketTest\ChatRoom\bin\Debug\ChatRoom.exe
+C:\Users\WeiLin.Hsu\OneDrive\桌面\TEST\WebSocketTest\ChatRoom\bin\Debug\ChatRoom.pdb
+C:\Users\WeiLin.Hsu\OneDrive\桌面\TEST\WebSocketTest\ChatRoom\obj\Debug\ChatRoom.csproj.CoreCompileInputs.cache
+C:\Users\WeiLin.Hsu\OneDrive\桌面\TEST\WebSocketTest\ChatRoom\obj\Debug\ChatRoom.exe
+C:\Users\WeiLin.Hsu\OneDrive\桌面\TEST\WebSocketTest\ChatRoom\obj\Debug\ChatRoom.pdb
+C:\Users\WeiLin.Hsu\OneDrive\桌面\TEST\WebSocketTest\ChatRoom\obj\Debug\ChatRoom.csproj.AssemblyReference.cache
