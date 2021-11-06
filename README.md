@@ -5,9 +5,9 @@
 * 前端使用 WebSocket API 對Socket Servr 發出連線請求。
 
 # 啟動專案
-+ 啟動web socket server執行檔  ChatRoom/bin/Debug/ChatRoom.exe
-+ 瀏覽器執行 html file  ChatRoom/View/index.cshtml
-+ 開始聊天
++. 啟動web socket server執行檔  ChatRoom/bin/Debug/ChatRoom.exe
++. 瀏覽器執行 html file  ChatRoom/View/index.cshtml
++. 開始聊天
 gif DEMO https://imgur.com/a/8QdQkCg
 
 # 參考資料
